@@ -407,7 +407,7 @@ MonoBehaviour:
   - {fileID: 1800458430}
   - {fileID: 1594475244}
   _spawnInterval: 2
-  enemyPrefab: {fileID: 8065727361633233266, guid: bb772dbfcc39c76458f981456bd5332d, type: 3}
+  _enemyPrefab: {fileID: 8065727361633233266, guid: bb772dbfcc39c76458f981456bd5332d, type: 3}
 --- !u!4 &1617879931
 Transform:
   m_ObjectHideFlags: 0
